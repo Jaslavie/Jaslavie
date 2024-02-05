@@ -44,7 +44,7 @@ What I'm learning right now:
 * React Game Jam, Dec 23 (🏅 Honorable Mention, 2 weeks)
 * SBHacks, Jan 24
 * RoseHacks, Jan 24 (🏅 Best UI/UX)
-* IrvineHacks, Jan 24 (🏅 Best use of Public Database, honorary, hosted Product Ideation workshop)
+* IrvineHacks, Jan 24 (🏅 Best use of Public Database (honorary), hosted Product Ideation workshop)
 * QWERHacks, Feb 24 (🏅 Most Inclusive Hack sponsored by Figma, 🏅 Best Use of TinyMCE)
 
 **Other**
