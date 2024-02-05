@@ -39,17 +39,22 @@ What I'm learning right now:
 - - - -
 
 ## ✦ Hackathon Count (7) ##
-* Zothacks (🏅 Best Runnerup Hack, first hackathon, hosted CSS Styling workshop)
-* WebJam (🏅 Best Runnerup Hack, 1 week, hosted web design workshop)
-* React Game Jam (🏅 Honorable Mention, 2 weeks)
-* SBHacks
-* RoseHacks (🏅 Best UI/UX)
-* IrvineHacks (🏅 Best use of Public Database, honorary, hosted Product Ideation workshop)
-* QWERHacks (🏅 Most Inclusive Hack sponsored by Figma, 🏅 Best Use of TinyMCE)
+* Zothacks, Nov 23 (🏅 Best Runnerup Hack, first hackathon, hosted CSS Styling workshop)
+* WebJam, Nov 23 (🏅 Best Runnerup Hack, 1 week, hosted web design workshop)
+* React Game Jam, Dec 23 (🏅 Honorable Mention, 2 weeks)
+* SBHacks, Jan 24
+* RoseHacks, Jan 24 (🏅 Best UI/UX)
+* IrvineHacks, Jan 24 (🏅 Best use of Public Database, honorary, hosted Product Ideation workshop)
+* QWERHacks, Feb 24 (🏅 Most Inclusive Hack sponsored by Figma, 🏅 Best Use of TinyMCE)
 
 **Other**
 * Design at UCI Project Teams (workshop host and judge)
 * UCI Designathon (organizer and workshop host)
+- - - -
+## ✦ Links ##
+💻 [Hackathon Portfolio, Devpost](devpost.com/jaslavie)
+🎨 [Design Portfolio, coded from scratch](jaslavie.com)
+🧳 [Linkedin, favorite social media](linkedin.com/in/jaslavie)
 <!--
 
 
