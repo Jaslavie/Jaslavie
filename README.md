@@ -3,7 +3,8 @@
 🎓 Currently a first-year **cognitive science + computer science** major @ UCI with an interest in web apps 💻, business strategy 💼, and designing for data-heavy operations ✈️
 <br><br>
 🐇 I love **fast-paced startup ecosystems** with multi-faceted products that drive rapid decision-making
-
+<br><br>
+🚀 My end goal is to work in the military/defense and data space!
 
 
 
@@ -50,13 +51,14 @@ What I'm learning right now:
 **Other**
 * Design at UCI Project Teams (workshop host and judge)
 * UCI Designathon (organizer and workshop host)
+* ADPLIST BeMore Product Conference (currently have 500+ mins of mentorship!)
 
 ## ✦ Links ##
-💻 [Hackathon Portfolio, Devpost](devpost.com/jaslavie)
+💻 [Hackathon Portfolio](https://devpost.com/jaslavie), Devpost
 <br>
-🎨 [Design Portfolio, coded from scratch](jaslavie.com)
+🎨 [Design Portfolio](https://jaslavie.com), coded from scratch
 <br>
-🧳 [Linkedin, favorite social media](linkedin.com/in/jaslavie)
+🧳 [Linkedin](https://linkedin.com/in/jaslavie), favorite social media
 <!--
 
 
