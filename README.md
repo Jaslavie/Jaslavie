@@ -1,9 +1,13 @@
-### Hi there 👋
+# Hi I'm Jasmine: Product Designer, Front-end Dev, and WW2 Enthusiast
+Currently a cognitive science + computer science major @ UCI 
+What I do: 
+- **Design**: UI/UX design with a heavy emphasis on complex, multi-faceted web applications for strategic operations + quick desicion making
+- **Front-end**: Landing pages for products (usually what I do for hackathons), styling, animation, sass, react
+- **Product**: Exploring Product marketing and PM roles (currently doing a fellowship w [UCI's startup incubator](https://www.productuci.com/))
+- **Other things that bring me joy**: hosting workshops for [Deisgn @ UCI](https://designatuci.com/), organizing designathons (hackathon for design), designing for [NPO's](https://www.developforgood.org/), and [sharing my life learnings](https://jaslavie.github.io/voicewise/)
 
 <!--
-**Jaslavie/Jaslavie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
