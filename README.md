@@ -3,8 +3,8 @@
 🎓 Currently a first-year **cognitive science + computer science** major @ UCI with an interest in web apps 💻, business strategy 💼, and designing for data-heavy operations ✈️
 <br><br>
 🐇 I love **fast-paced startup ecosystems** with multi-faceted products that drive rapid decision-making
-<br>
-- - - -
+
+
 
 
 ## ✦ What I do ##
@@ -14,7 +14,7 @@
 * Product: Exploring Product marketing and PM roles (currently doing a fellowship w [UCI's startup incubator](https://www.productuci.com/))
 * Other things that bring me joy: hosting workshops for [Deisgn @ UCI](https://designatuci.com/), organizing designathons (hackathon for design), designing for [NPO's](https://www.developforgood.org/), and [sharing my life learnings](https://jaslavie.github.io/voicewise/)
 
-- - - -
+
 
 
 ## ✦ Tech Stack: ##
@@ -30,13 +30,13 @@ What I'm learning right now:
 * VR developmnet with Unity/Unreal Engine
 * Reading on ML research papers and intersections with design
 
-- - - -
+
 ## ✦ Bookshelf ##
 * Song: Phoenix by LoL
 * Book: Mastery by Robert Greene
 * Favorite Tech: Palantir AIP
 * Free Time: Linkedin doom scrolling 🙃
-- - - -
+
 
 ## ✦ Hackathon Count (7) ##
 * Zothacks, Nov 23 (🏅 Best Runnerup Hack, first hackathon, hosted CSS Styling workshop)
@@ -50,10 +50,12 @@ What I'm learning right now:
 **Other**
 * Design at UCI Project Teams (workshop host and judge)
 * UCI Designathon (organizer and workshop host)
-- - - -
+
 ## ✦ Links ##
 💻 [Hackathon Portfolio, Devpost](devpost.com/jaslavie)
+<br>
 🎨 [Design Portfolio, coded from scratch](jaslavie.com)
+<br>
 🧳 [Linkedin, favorite social media](linkedin.com/in/jaslavie)
 <!--
 
