@@ -5,6 +5,8 @@
 🐇 I love **fast-paced startup ecosystems** with multi-faceted products that drive rapid decision-making
 <br><br>
 🚀 My end goal is to work in the military/defense and data space!
+<br><br>
+🧠 MBTI: `INTJ`
 
 
 
