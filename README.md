@@ -27,7 +27,7 @@ I prefer SASS with react.js for front-end. I work purely with Figma for design.
 However, I also have experience with:
 * Styling: tailwind, mui, chakra ui, vanilla css
 * Structure: vanilla HTML, typescript
-* Other: Blender, R, three.js
+* Other: Blender, Unity3D, R, three.js
 
 What I'm learning right now:
 * VR developmnet with Unity/Unreal Engine
