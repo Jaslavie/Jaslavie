@@ -41,7 +41,7 @@ What I'm learning right now:
 * Free Time: Linkedin doom scrolling 🙃
 
 
-## ✦ Hackathon Count (8) ##
+## ✦ Hackathon Count (9) ##
 * Zothacks, Nov 23 (🏅 Best Runnerup Hack, first hackathon, hosted CSS Styling workshop)
 * WebJam, Nov 23 (🏅 Best Runnerup Hack, 1 week, hosted web design workshop)
 * React Game Jam, Dec 23 (🏅 Honorable Mention, 2 weeks)
@@ -50,6 +50,7 @@ What I'm learning right now:
 * IrvineHacks, Jan 24 (🏅 Best use of Public Database (honorary), hosted Product Ideation workshop)
 * QWERHacks, Feb 24 (🏅 Most Inclusive Hack sponsored by Figma, 🏅 Best Use of TinyMCE)
 * El Segundo Defense Hackathon, Feb 24 (Attended by reps from Anduril, Palantir, SpaceX, VC's, ect)
+* FullyHacks, Feb 24 (🏅 Most Technically Impressive Hack, VR + Rover)
 
 **Other**
 * Design at UCI Project Teams (workshop host and judge)
