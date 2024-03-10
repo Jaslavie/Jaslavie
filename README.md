@@ -17,7 +17,13 @@
 * Product: Exploring Product marketing and PM roles (currently doing a fellowship w [UCI's startup incubator](https://www.productuci.com/))
 * Other things that bring me joy: hosting workshops for [Deisgn @ UCI](https://designatuci.com/), organizing [designathons](https://designatuci.com/designathons/) (hackathon for design), designing for [NPO's](https://www.developforgood.org/), and [sharing my life learnings](https://jaslavie.github.io/voicewise/)
 
-
+## ✦ Previously... ##
+* Won 1st place e-commerce web design out of 1000+ national participants, 40+ firms, and a near-perfect judging score of 4.9/5.0 @ HS startup incubator
+* Opened a streetwear clothing business sold to 40+ states and 10+ countries with 100k+ reach on social media
+* Scaled a startup from B2C to B2B as founding product designer, increased growth by 160%
+* Built mobile game with 11k+ players and 500+ hours playtime with no prev game dev experience
+* Built 2D assets business (60+ designs) on Roblox with 2k+ sales. Designed everyone on chromebook trackpad.
+* Won 8 national hackathons in 2 months
 
 
 ## ✦ Tech Stack: ##
