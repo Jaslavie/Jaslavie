@@ -36,7 +36,7 @@ However, I also have experience with:
 * Other: Blender, Unity3D, R, three.js
 
 What I'm learning right now:
-* VR developmnet with Unity/Unreal Engine
+* VR development with Unity/Unreal Engine
 * Reading on ML research papers and intersections with design
 
 
@@ -47,20 +47,21 @@ What I'm learning right now:
 * Free Time: Linkedin doom scrolling 🙃
 
 
-## ✦ Hackathon Count (10) ##
-* Zothacks / UCI, Nov 23' (🥈 Best Runnerup Hack, first hackathon, hosted CSS Styling workshop)
-* ICSSC WebJam / UCI, Nov 23' (🥈 Best Runnerup Hack, 1 week, hosted web design workshop)
-* React Game Jam, Dec 23' (🏅 Honorable Mention, 2 weeks)
+## ✦ Hackathon Count (11) ##
+* Zothacks / UCI, Nov 23' (🥈 Best Runnerup Hack. First hackathon, hosted CSS Styling workshop)
+* ICSSC WebJam / UCI, Nov 23' (🥈 Best Runnerup Hack. 1 week, hosted web design workshop)
+* React Game Jam, Dec 23' (🏅 Honorable Mention. 2 weeks)
 * SBHacks/ UCSB, Jan 24'
 * RoseHacks / UCR, Jan 24' (🏅 Best UI/UX)
-* IrvineHacks / UCI, Jan 24' (🏅 Best use of Public Database (honorary), hosted Product Ideation workshop)
-* QWERHacks / UCLA, Feb 24' (🏅 Most Inclusive Hack sponsored by Figma, 🏅 Best Use of TinyMCE)
+* IrvineHacks / UCI, Jan 24' (🏅 Best use of Public Database (honorary). Hosted Product Ideation workshop)
+* QWERHacks / UCLA, Feb 24' (🏅 Most Inclusive Hack sponsored by Figma. 🏅 Best Use of TinyMCE)
 * El Segundo Defense Hackathon, Feb 24' (Attended by reps from Anduril, Palantir, SpaceX, VC's, ect)
-* FullyHacks / CSUF, Feb 24' (🏅 Most Technically Impressive Hack, VR + Rover)
-* AthenaHacks / USC, Mar 24' (🥇 Best Overall Hack, gesture and voice controlled driving co pilot)
+* FullyHacks / CSUF, Feb 24' (🏅 Most Technically Impressive Hack. VR + Rover)
+* AthenaHacks / USC, Mar 24' (🥇 Best Overall Hack. gesture and voice-controlled driving co-pilot)
+* DreamXR / Founders Inc in SF, Mar 24' (🏅 Finalist/2nd Overall in Games Track. Pitched to VCs, YC founders, Meta, Unity, etc)
 
 **Other**
-* Design at UCI Project Teams (workshop host x4 and judge x2)
+* Design at UCI Project Teams (Workshop host x4 and judge x2)
 * UCI Designathon (Co-director, Logistics Lead of 1st designathon committee!)
 * ADPLIST BeMore Product Conference (currently have 500+ mins of mentorship!)
 
