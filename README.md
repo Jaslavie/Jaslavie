@@ -47,7 +47,7 @@ What I'm learning right now:
 * Free Time: Linkedin doom scrolling 🙃
 
 
-## ✦ Hackathon Count (12) ##
+## ✦ Hackathon Count (13) ##
 * Zothacks / UCI, Nov 23' (🥈 Best Runnerup Hack. First hackathon, hosted CSS Styling workshop)
 * ICSSC WebJam / UCI, Nov 23' (🥈 Best Runnerup Hack. 1 week, hosted web design workshop)
 * React Game Jam, Dec 23' (🏅 Honorable Mention. 2 weeks)
@@ -60,6 +60,7 @@ What I'm learning right now:
 * AthenaHacks / USC, Mar 24' (🥇 Best Overall Hack. gesture and voice-controlled driving co-pilot)
 * DreamXR / Founders Inc in SF, Mar 24' (🏅 Finalist/2nd Overall in Games Track. Pitched to VCs, YC founders, Meta, Unity, etc)
 * UncommonHacks / UChicago, Mar 24' (🏅 Winner of Programmatic Art Category. Multiplayer Mad Libs Game → aggregated song w Sona AI)
+* YHacks / Yale, Mar 24' (🥇 Best Overall Hack. Tiktok for University Lectures)
 
 **Other**
 * Design at UCI Project Teams (Workshop host x4 and judge x2)
