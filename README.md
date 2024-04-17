@@ -1,44 +1,24 @@
-# Hi I'm Jasmine: Product Designer, Front-end Dev, and WW2 Enthusiast #
+# Hi I'm Jasmine: Product Designer and Engineer Building 0 → 1
 
-🎓 Currently a first-year **cognitive science + computer science** major @ UCI with an interest in web apps 💻, business strategy 💼, and designing for data-heavy operations ✈️
-<br><br>
-🐇 I love **fast-paced startup ecosystems** with multi-faceted products that drive rapid decision-making
-<br><br>
-🚀 My end goal is to work in the military/defense and data space!
-<br><br>
-🧠 MBTI: `INTJ`
+I'm currently studying cognitive science, computer science, and business @ UCI, however I spend most of my time flying to [hackathons](https://devpost.com/jaslavie) (18 hackathons in 2024!), organizing a 48 hour [design-a-thon](https://designatuci.com/designathon/24), and reading contrary research ☕️ 
 
+## ✦ What I specialize in ##
+* Design-side: [leading a design team](https://ctc-uci.com/) to build a 0 to 1 product for an NPO
+* Engineering-side: Incoming Design Engineer at [NASA](https://www.lspace.asu.edu/)'s 12-week accelerator program
+* Product: Product Manager for [Product Fellowship](https://www.productuci.com/)), won 1st overall in pitch competition
 
-## ✦ What I do ##
-
-* Design: UI/UX design with a heavy emphasis on complex, multi-faceted web applications for strategic operations + quick desicion making
-* Front-end: Landing pages for products (usually what I do for hackathons), styling, animation, sass, react
-* Product: Exploring Product marketing and PM roles (currently doing a fellowship w [UCI's startup incubator](https://www.productuci.com/))
-* Other things that bring me joy: hosting workshops for [Deisgn @ UCI](https://designatuci.com/), organizing [designathons](https://designatuci.com/designathons/) (hackathon for design), designing for [NPO's](https://www.developforgood.org/), and [sharing my life learnings](https://jaslavie.github.io/voicewise/)
+I also speak about design and tech at [Deisgn @ UCI](https://designatuci.com/), design for [NPO's](https://www.developforgood.org/), and share my life learnings through my [online platform](https://jaslavie.github.io/voicewise/). So far, I've hosted ~20 workshops and judged for two 10-week-long design competitions.
 
 
 ## ✦ Tech Stack: ##
-
 I prefer SASS with react.js for front-end. I work purely with Figma for design.
 <br>
 However, I also have experience with:
-* Styling: tailwind, mui, chakra ui, vanilla css
-* Structure: vanilla HTML, typescript, react native
-* Other: Blender, Unity3D, R, three.js
-
-What I'm learning right now:
-* VR development with Unity/Unreal Engine
-* Reading on ML research papers and intersections with design
+* Front-end: tailwind, mui/chakra ui, vanilla css, vanilla HTML, typescript, react native
+* Other: Blender, Unity3D (VR), R, three.js
 
 
-## ✦ Bookshelf ##
-* Song: Phoenix by LoL
-* Book: Mastery by Robert Greene
-* Favorite Tech: Palantir AIP
-* Free Time: Linkedin doom scrolling 🙃
-
-
-## ✦ Hackathon Count (14) ##
+## ✦ I have won 12 out of 15 Hackathons attended in 4 months##
 * Zothacks / UCI, Nov 23' (🥈 Best Runnerup Hack. First hackathon, hosted CSS Styling workshop)
 * ICSSC WebJam / UCI, Nov 23' (🥈 Best Runnerup Hack. 1 week, hosted web design workshop)
 * React Game Jam, Dec 23' (🏅 Honorable Mention. 2 weeks)
@@ -54,17 +34,18 @@ What I'm learning right now:
 * YHacks / Yale, Mar 24' (🥇 Best Overall Hack. Tiktok for University Lectures)
 * DiamondHacks / UCSD, Apr 24':🏅 Winner of Education Track
 
-**Other**
-* Design at UCI Project Teams (Workshop host x4 and judge x2)
-* UCI Designathon (Co-director, Logistics Lead of 1st designathon committee!)
-* ADPLIST BeMore Product Conference (currently have 500+ mins of mentorship!)
+## ✦ Bookshelf ##
+* Song: Phoenix by LoL
+* Book: Mastery by Robert Greene
+* Favorite Tech: Palantir AIP
+* Free Time: Linkedin doom scrolling 🙃
 
 ## ✦ Links ##
-💻 [Hackathon Portfolio](https://devpost.com/jaslavie), Devpost
+💻 [Devpost](https://devpost.com/jaslavie)
 <br>
-🎨 [Design Portfolio](https://jaslavie.com), coded from scratch
+🎨 [Portfolio](https://jaslavie.com)
 <br>
-🧳 [Linkedin](https://linkedin.com/in/jaslavie), favorite social media
+🧳 [Linkedin](https://linkedin.com/in/jaslavie)
 <!--
 
 
