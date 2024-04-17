@@ -18,21 +18,24 @@ However, I also have experience with:
 * Other: Blender, Unity3D (VR), R, three.js
 
 
-## ✦ I have won 12 out of 15 Hackathons attended in 4 months##
-* Zothacks / UCI, Nov 23' (🥈 Best Runnerup Hack. First hackathon, hosted CSS Styling workshop)
-* ICSSC WebJam / UCI, Nov 23' (🥈 Best Runnerup Hack. 1 week, hosted web design workshop)
-* React Game Jam, Dec 23' (🏅 Honorable Mention. 2 weeks)
-* SBHacks/ UCSB, Jan 24' (Longest drive. First all-nighter)
+## ✦ I have won 12 out of 15 Hackathons attended in 4 months
+#### Best Overall at [Yale Hacks](https://www.yale.edu/) and [Athena Hacks](https://www.usc.edu/)
+
+* Zothacks / UCI, Nov 23' (🥈 2nd Place)
+* ICSSC WebJam / UCI, Nov 23' (🥈 2nd Place)
+* React Game Jam, Dec 23' (🏅 4th Place)
+* SBHacks/ UCSB, Jan 24' 
 * RoseHacks / UCR, Jan 24' (🏅 Best UI/UX)
-* IrvineHacks / UCI, Jan 24' (🏅 Best use of Public Database (honorary). Hosted Product Ideation workshop)
+* IrvineHacks / UCI, Jan 24' (🏅 Best use of Public Database (honorary))
 * QWERHacks / UCLA, Feb 24' (🏅 Most Inclusive Hack sponsored by Figma. 🏅 Best Use of TinyMCE)
 * El Segundo Defense Hackathon, Feb 24' (Attended by reps from Anduril, Palantir, SpaceX, VC's, ect)
-* FullyHacks / CSUF, Feb 24' (🏅 Most Technically Impressive Hack. VR + Rover)
-* AthenaHacks / USC, Mar 24' (🥇 Best Overall Hack. gesture and voice-controlled driving co-pilot)
+* FullyHacks / CSUF, Feb 24' (🏅 Most Technically Impressive Hack)
+* AthenaHacks / USC, Mar 24' (🥇 Best Overall Hack)
 * DreamXR / Founders Inc in SF, Mar 24' (🏅 Finalist/2nd Overall in Games Track. Pitched to VCs, YC founders, Meta, Unity, etc)
-* UncommonHacks / UChicago, Mar 24' (🏅 Winner of Programmatic Art Category. Multiplayer Mad Libs Game → aggregated song w Sona AI)
-* YHacks / Yale, Mar 24' (🥇 Best Overall Hack. Tiktok for University Lectures)
-* DiamondHacks / UCSD, Apr 24':🏅 Winner of Education Track
+* UncommonHacks / UChicago, Mar 24' (🏅 Winner of Programmatic Art Category)
+* YHacks / Yale, Mar 24' (🥇 Best Overall Hack)
+* DiamondHacks / UCSD, Apr 24' (🏅 Winner of Education Track)
+* MHacks / UMich, Apr 24'
 
 ## ✦ Bookshelf ##
 * Song: Phoenix by LoL
