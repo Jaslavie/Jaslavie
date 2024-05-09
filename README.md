@@ -18,7 +18,7 @@ However, I also have experience with:
 * Other: Blender, Unity3D (VR), R, three.js
 
 
-## ✦ I have won 13 out of 16 Hackathons attended in 4 months
+## ✦ I have won 14 out of 17 Hackathons attended in 4 months
 #### Best Overall at [Yale Hacks](https://www.yale.edu/) and [Athena Hacks](https://www.usc.edu/)
 
 * Zothacks / UCI, Nov 23' (🥈 2nd Place)
@@ -36,7 +36,8 @@ However, I also have experience with:
 * YHacks / Yale, Mar 24' (🥇 Best Overall Hack)
 * DiamondHacks / UCSD, Apr 24' (🏅 Winner of Education Track)
 * MHacks / UMich, Apr 24'
-* LAHacks / UCLA, Apr 24' (🥇 Google Gemini 1st Place )
+* LAHacks / UCLA, Apr 24' (🥇 1st Place Google Company Challenge)
+* DavisHacks / UCDavis, Apr 24' (🥈 2nd Place Intel Challenge)
 
 ## ✦ Bookshelf ##
 * Song: Phoenix by LoL
