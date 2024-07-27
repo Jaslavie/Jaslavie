@@ -4,7 +4,7 @@ I'm currently studying cognitive science, computer science, and business @ UCI, 
 
 ## ✦ What I specialize in ##
 * Design-side: [leading a design team](https://ctc-uci.com/) to build a 0 to 1 product for an NPO
-* Engineering-side: Incoming Design Engineer at [NASA](https://www.lspace.asu.edu/)'s 12-week accelerator program
+* Engineering-side: Mission Design Manager at [NASA](https://www.lspace.asu.edu/) designing a lunar rover mission
 * Product: Product Manager for [Product Fellowship](https://www.productuci.com/)), won 1st overall in pitch competition
 
 I also speak about design and tech at [Deisgn @ UCI](https://designatuci.com/), design for [NPO's](https://www.developforgood.org/), and share my life learnings through my [online platform](https://jaslavie.github.io/voicewise/). So far, I've hosted ~20 workshops and judged for two 10-week-long design competitions.
@@ -14,11 +14,12 @@ I also speak about design and tech at [Deisgn @ UCI](https://designatuci.com/), 
 I prefer SASS with react.js for front-end. I work purely with Figma for design.
 <br>
 However, I also have experience with:
+* Back-end: Python, C++, Java, Pandas, SQL
 * Front-end: tailwind, mui/chakra ui, vanilla css, vanilla HTML, typescript, react native
 * Other: Blender, Unity3D (VR), R, three.js
 
 
-## ✦ I have won 14 out of 17 Hackathons attended in 4 months
+## ✦ I have won 15 out of 18 Hackathons attended in 4 months
 #### Best Overall at [Yale Hacks](https://www.yale.edu/) and [Athena Hacks](https://www.usc.edu/)
 
 * Zothacks / UCI, Nov 23' (🥈 2nd Place)
@@ -38,7 +39,8 @@ However, I also have experience with:
 * MHacks / UMich, Apr 24'
 * LAHacks / UCLA, Apr 24' (🥇 1st Place Google Company Challenge)
 * DavisHacks / UCDavis, Apr 24' (🥈 2nd Place Intel Challenge)
-
+* Berkeley AI Hackathon / UC Berkeley, Jun 24' (🥇 1st Place Overall, 1st Place Social Good, 1st Place Intel)
+  
 ## ✦ Bookshelf ##
 * Song: Phoenix by LoL
 * Book: Mastery by Robert Greene
