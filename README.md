@@ -1,26 +1,43 @@
-# Hi I'm Jasmine: Product Designer and Engineer Building 0 → 1
+# Hi I'm Jasmine: Product Designer and Engineer
 
-I'm currently studying cognitive science, computer science, and business @ UCI, however I spend most of my time flying to [hackathons](https://devpost.com/jaslavie) (18 hackathons in 2024!), organizing a 48 hour [design-a-thon](https://designatuci.com/designathon/24), and reading contrary research ☕️ 
+I'm currently studying Cognitive Science and Computer Science @ UCI, however I spend most of my time flying to [hackathons](https://devpost.com/jaslavie) (18 hackathons in 2024!), organizing a 48 hour [design-a-thon](https://designatuci.com/designathon/24), and building electric race cars @ [FSAE](https://sites.uci.edu/uciracing/) 🏎️ 
 
 ## ✦ What I specialize in ##
-* Design-side: [leading a design team](https://ctc-uci.com/) to build a 0 to 1 product for an NPO
-* Engineering-side: Mission Design Manager at [NASA](https://www.lspace.asu.edu/) designing a lunar rover mission
-* Product: Product Manager for [Product Fellowship](https://www.productuci.com/)), won 1st overall in pitch competition
+* Design: [leading a design team](https://ctc-uci.com/) to build a 0 to 1 product for an NPO
+* Engineering: Designing AR Inerfaces for Spacesuits @ [NASA](https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/)
+* Product: Leading a collegiate [Startup Incubator @ UCI](https://www.productuci.com/)). Prev. won 1st overall in pitch competition.
 
 I also speak about design and tech at [Deisgn @ UCI](https://designatuci.com/), design for [NPO's](https://www.developforgood.org/), and share my life learnings through my [online platform](https://jaslavie.github.io/voicewise/). So far, I've hosted ~20 workshops and judged for two 10-week-long design competitions.
 
 
 ## ✦ Tech Stack: ##
-I prefer SASS with react.js for front-end. I work purely with Figma for design.
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=FFF&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=282C34&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=FFF&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFF&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=FFF&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=FFF&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=FFF&style=for-the-badge)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=FFF&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=FFF&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=FFF&style=for-the-badge)
+![R Studio](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=FFF&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFF&style=for-the-badge)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=FFF&style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=FFF&style=for-the-badge)
+![HoloLens](https://img.shields.io/badge/HoloLens-008080?logo=microsoft&logoColor=FFF&style=for-the-badge)
+![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=FFF&style=for-the-badge)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaslavie&layout=compact&theme=dark&title_color=FFFFFF&text_color=FFFFFF&bg_color=1d1d1f&border_color=363637&bar_color=6673FF&icon_color=A888FF)
 <br>
-However, I also have experience with:
-* Back-end: Python, C++, Java, Pandas, SQL
-* Front-end: tailwind, mui/chakra ui, vanilla css, vanilla HTML, typescript, react native
-* Other: Blender, Unity3D (VR), R, three.js
+* Back-end: Python, C++, Java, Pandas, SQL, R Studios
+* Front-end: Figma, React, TypeScript, React Native, HTML/CSS (Sass), Tailwind CSS
+* Other: Blender, Unity3D, Hololens (VR), Three.js
 
 
 ## ✦ I have won 15 out of 18 Hackathons attended in 4 months
-#### Best Overall at [Yale Hacks](https://www.yale.edu/) and [Athena Hacks](https://www.usc.edu/)
+#### Best Overall at [Yale Hacks](https://www.yale.edu/) and [the Berkeley AI Hackathon](https://www.youtube.com/watch?v=tsTeEkzO9xc)
 
 * Zothacks / UCI, Nov 23' (🥈 2nd Place)
 * ICSSC WebJam / UCI, Nov 23' (🥈 2nd Place)
