@@ -1,11 +1,11 @@
-# Hi I'm Jasmine: Product Designer and Engineer
+# Hi I'm Jasmine: Design Engineer obsessed with crafting magical product experiences
 
 I'm currently studying Cognitive Science and Computer Science @ UCI, however I spend most of my time flying to [hackathons](https://devpost.com/jaslavie) (18 hackathons in 2024!), organizing a 48 hour [design-a-thon](https://designatuci.com/designathon/24), and building electric race cars @ [FSAE](https://sites.uci.edu/uciracing/) 🏎️ 
 
 ## ✦ What I specialize in ##
-* Design: [leading a design team](https://ctc-uci.com/) to build a 0 to 1 product for an NPO
-* Engineering: Designing AR Inerfaces for Spacesuits @ [NASA](https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/)
-* Product: Leading a collegiate [Startup Incubator @ UCI](https://www.productuci.com/)). Prev. won 1st overall in pitch competition.
+* Product Management: Leading a collegiate [Startup Incubator @ UCI](https://www.productuci.com/). Prev. won 1st overall in pitch competition.
+* UI/UX Design: [leading a design team](https://ctc-uci.com/) to build pro bono products for NPOs.
+* Embedded Systems: Developing AR Inerfaces for Spacesuits @ [NASA](https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/)
 
 I also speak about design and tech at [Deisgn @ UCI](https://designatuci.com/), design for [NPO's](https://www.developforgood.org/), and share my life learnings through my [online platform](https://jaslavie.github.io/voicewise/). So far, I've hosted ~20 workshops and judged for two 10-week-long design competitions.
 
@@ -30,10 +30,6 @@ I also speak about design and tech at [Deisgn @ UCI](https://designatuci.com/), 
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=FFF&style=for-the-badge)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaslavie&layout=compact&theme=dark&title_color=FFFFFF&text_color=FFFFFF&bg_color=1d1d1f&border_color=363637&bar_color=6673FF&icon_color=A888FF)
-<br>
-* Back-end: Python, C++, Java, Pandas, SQL, R Studios
-* Front-end: Figma, React, TypeScript, React Native, HTML/CSS (Sass), Tailwind CSS
-* Other: Blender, Unity3D, Hololens (VR), Three.js
 
 
 ## ✦ I have won 15 out of 18 Hackathons attended in 4 months
@@ -62,14 +58,14 @@ I also speak about design and tech at [Deisgn @ UCI](https://designatuci.com/), 
 * Song: Phoenix by LoL
 * Book: Mastery by Robert Greene
 * Favorite Tech: Palantir AIP
-* Free Time: Linkedin doom scrolling 🙃
+* Fun Fact: I spent 95% of my childhood playing Minecraft (not an exageration!)
 
 ## ✦ Links ##
-💻 [Devpost](https://devpost.com/jaslavie)
-<br>
 🎨 [Portfolio](https://jaslavie.com)
 <br>
 🧳 [Linkedin](https://linkedin.com/in/jaslavie)
+<br>
+💻 [Devpost](https://devpost.com/jaslavie)
 <!--
 
 
