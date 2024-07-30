@@ -29,9 +29,6 @@ I also speak about design and tech at [Deisgn @ UCI](https://designatuci.com/), 
 ![HoloLens](https://img.shields.io/badge/HoloLens-008080?logo=microsoft&logoColor=FFF&style=for-the-badge)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=FFF&style=for-the-badge)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaslavie&layout=compact&theme=dark&title_color=FFFFFF&text_color=FFFFFF&bg_color=1d1d1f&border_color=363637&bar_color=6673FF&icon_color=A888FF)
-
-
 ## ✦ I have won 15 out of 18 Hackathons attended in 4 months
 #### Best Overall at [Yale Hacks](https://www.yale.edu/) and [the Berkeley AI Hackathon](https://www.youtube.com/watch?v=tsTeEkzO9xc)
 
