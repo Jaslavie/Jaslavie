@@ -1,11 +1,11 @@
-# Hi I'm Jasmine: Design Engineer obsessed with crafting magical product experiences
+# Hi I'm Jasmine: Design Engineer designing functional and beautfiful products at scale
 
-I'm currently studying Cognitive Science and Computer Science @ UCI, however I spend most of my time flying to [hackathons](https://devpost.com/jaslavie) (18 hackathons in 2024!), organizing a 48 hour [design-a-thon](https://designatuci.com/designathon/24), and building electric race cars @ [FSAE](https://sites.uci.edu/uciracing/) 🏎️ 
+I'm a double major in Computer Science and Computational Cognitive Science at UC Irvine. I spend most of my time flying to [hackathons](https://devpost.com/jaslavie) (21 hackathons in 2024 including judging and organizing!), organizing the largest [Design Hackathon](https://designatuci.com/designathon/24) in SoCal, and building Formula-style race cars @ [FSAE](https://sites.uci.edu/uciracing/).
 
 ## ✦ What I specialize in ##
-* Product Management: Leading a collegiate [Startup Incubator @ UCI](https://www.productuci.com/). Prev. won 1st overall in pitch competition.
-* UI/UX Design: [leading a design team](https://ctc-uci.com/) to build pro bono products for NPOs.
-* Embedded Systems: Developing AR Inerfaces for Spacesuits @ [NASA](https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/)
+* Product Development: Leading 0 to 1 Product Discovery and Design for [Dispatch AI](https://devpost.com/software/dispatch-ai?ref_content=user-portfolio&ref_feature=in_progress). Secured $64,000 in investment from Skydeck, Intel, and OpenAI.
+* UI/UX Design: [Leading a Design Team](https://ctc-uci.com/) to design efficient data management workflows for NPOs.
+* Human-Computer Interaction: Developing AR Inerfaces and Mission Control for Spacesuits @ [NASA](https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/).
 
 I also speak about design and tech at [Deisgn @ UCI](https://designatuci.com/), design for [NPO's](https://www.developforgood.org/), and share my life learnings through my [online platform](https://jaslavie.github.io/voicewise/). So far, I've hosted ~20 workshops and judged for two 10-week-long design competitions.
 
@@ -29,8 +29,8 @@ I also speak about design and tech at [Deisgn @ UCI](https://designatuci.com/), 
 ![HoloLens](https://img.shields.io/badge/HoloLens-008080?logo=microsoft&logoColor=FFF&style=for-the-badge)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=FFF&style=for-the-badge)
 
-## ✦ I have won 15 out of 18 Hackathons attended in 4 months
-#### Best Overall at [Yale Hacks](https://www.yale.edu/) and [the Berkeley AI Hackathon](https://www.youtube.com/watch?v=tsTeEkzO9xc)
+## ✦ Won 15 Hackathons in 4 months
+#### Best Overall at [Yale](https://www.yale.edu/) and [the Berkeley AI Hackathon](https://www.youtube.com/watch?v=tsTeEkzO9xc)
 
 * Zothacks / UCI, Nov 23' (🥈 2nd Place)
 * ICSSC WebJam / UCI, Nov 23' (🥈 2nd Place)
