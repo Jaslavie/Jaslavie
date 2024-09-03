@@ -1,4 +1,4 @@
-# Hi I'm Jasmine: Design Engineer designing functional and beautfiful products at scale
+# Hi I'm Jasmine: Design Engineer designing functional and beautiful products at scale
 
 I'm a double major in Computer Science and Computational Cognitive Science at UC Irvine. I spend most of my time flying to 💻 [hackathons](https://devpost.com/jaslavie) (21 hackathons in 2024 including judging and organizing!), organizing the largest 🎨 [Design Hackathon](https://designatuci.com/designathon/24) in SoCal, and building Formula-style race cars @ 🏎️ [FSAE](https://sites.uci.edu/uciracing/).
 
