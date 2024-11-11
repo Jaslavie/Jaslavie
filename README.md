@@ -1,19 +1,18 @@
-# Hi I'm Jasmine: Design Engineer designing functional and beautiful products at scale
+## Hi I'm Jasmine: Design Engineer designing functional and beautiful products at scale
 
-I'm a double major in Computer Science and Computational Cognitive Science at UC Irvine. I spend most of my time flying to 💻 [hackathons](https://devpost.com/jaslavie) (21 hackathons in 2024 including judging and organizing!), organizing the largest 🎨 [Design Hackathon](https://designatuci.com/designathon/24) in SoCal, and building Formula-style race cars @ 🏎️ [FSAE](https://sites.uci.edu/uciracing/).
+I'm a studying Computer Science and Neuroscience at UC Irvine - but I spend most of my time flying to hackathons and building ml projects at cafes.
 
-## ✦ What I specialize in ##
-* 🚀 **Product Development:** Leading 0 to 1 Product Discovery and Design for [Dispatch AI](https://devpost.com/software/dispatch-ai?ref_content=user-portfolio&ref_feature=in_progress). Secured $64,000 in investment from Skydeck, Intel, and OpenAI.
-* ✨ **UI/UX Design:** [Leading a Design Team](https://ctc-uci.com/) to design efficient data management workflows for NPOs.
-* 🤖 **Human-Computer Interaction:** Developing AR Inerfaces and Mission Control for Spacesuits @ [NASA](https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/).
+### Currently 
+* Incoming Designer @ Palantir, building [Gotham](https://www.palantir.com/platforms/gotham/) Defense Intelligence
+* Product Designer building AR Inerfaces and Mission Control for Spacesuits @ [NASA](https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/).
+* Writing about defense tech @ [Contrary](https://www.contrary.com/).
 
-## ✦ Prev. ##
-* 🔬 **Co-authored 244-page Preliminary Design Review** for [NASA Artemis Research](https://space.asu.edu/).
-* 📊 **Designed and engineered** data handling system for 0 to 1 Emergency Management Service, $1 Million Valuation.
-* 🎤 **Hosted 22 design & tech workshops** for [Deisgn @ UCI](https://designatuci.com/).
-* 🏆 **15x Hackathon Winner** out of 17 attended, including Grand Prize at [Yale](https://www.yale.edu/) and [the Berkeley AI Hackathon](https://www.youtube.com/watch?v=tsTeEkzO9xc).
-
-## ✦ Tech Stack: ##
+### Previously 
+* Co-authored 244-page Preliminary Design Review under NASA Research Program.
+* Founder leading 0 to 1 Product Discovery and Design at Berkeley Skydeck. Govtech & emergency response.
+* 15x Hackathon Winner out of 17 attended, including Grand Prize at Yale and the Berkeley AI Hackathon.
+<!--
+## Tech Stack: ##
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=FFF&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=282C34&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFF&style=for-the-badge)
@@ -30,20 +29,18 @@ I'm a double major in Computer Science and Computational Cognitive Science at UC
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=FFF&style=for-the-badge)
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=FFF&style=for-the-badge)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=FFF&style=for-the-badge)
-  
-## ✦ Bookshelf ##
-* 🎧 Song: Phoenix by LoL
-* 📖 Book: Mastery by Robert Greene
-* 🛰️ Favorite Tech: Palantir AIP
-<br>
-Fun Fact: I was a Minecraft exploiter in 5th grade. Nearly 100% win rate on all games played 😆
 
-## ✦ Links ##
-🎨 [Portfolio](https://jaslavie.com)
+### Bookshelf
+* Song: [Phoenix](https://www.youtube.com/watch?v=i1IKnWDecwA) by LoL
+* Book: [Mastery](https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X) by Robert Greene
+* Article: [Live vs Dead Players](https://samoburja.com/live-versus-dead-players/)
+-->
+### Links
+[Portfolio](https://jaslavie.com)
 <br>
-🧳 [Linkedin](https://linkedin.com/in/jaslavie)
+[Linkedin](https://linkedin.com/in/jaslavie)
 <br>
-💻 [Devpost](https://devpost.com/jaslavie)
+[Devpost](https://devpost.com/jaslavie)
 <!--
 
 * Zothacks / UCI, Nov 23' (🥈 2nd Place)
