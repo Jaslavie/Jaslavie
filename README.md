@@ -1,16 +1,15 @@
-## Hi I'm Jasmine: Design Engineer designing functional and beautiful products at scale
-
+## design engineer building beautiful and functional interfaces at scale.
 I'm a studying Computer Science and Neuroscience at UC Irvine - but I spend most of my time flying to hackathons and building ml projects at cafes.
 
-### Currently 
-* Incoming Designer @ Palantir, building [Gotham](https://www.palantir.com/platforms/gotham/) Defense Intelligence
-* Product Designer building AR Inerfaces and Mission Control for Spacesuits @ [NASA](https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/).
-* Writing about defense tech @ [Contrary](https://www.contrary.com/).
+### now 
+* incoming product designer @ Palantir, building [Gotham](https://www.palantir.com/platforms/gotham/), defense intelligence.
+* software engineer building AR inerfaces and mission control for spacesuits @ [NASA](https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/).
+* writing about defense tech @ [Contrary](https://www.contrary.com/).
 
-### Previously 
-* Co-authored 244-page Preliminary Design Review under NASA Research Program.
-* Founder leading 0 to 1 Product Discovery and Design at Berkeley Skydeck. Govtech & emergency response.
-* 15x Hackathon Winner out of 17 attended, including Grand Prize at Yale and the Berkeley AI Hackathon.
+### past life 
+* co-authored 244-page preliminary design review under NASA research program.
+* founder leading 0 to 1 product discovery and design at Berkeley Skydeck. govtech & emergency response.
+* 15x hackathon winner out of 17 attended, including grand prize at Yale and the Berkeley AI Hackathon.
 <!--
 ## Tech Stack: ##
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=FFF&style=for-the-badge)
@@ -35,7 +34,7 @@ I'm a studying Computer Science and Neuroscience at UC Irvine - but I spend most
 * Book: [Mastery](https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X) by Robert Greene
 * Article: [Live vs Dead Players](https://samoburja.com/live-versus-dead-players/)
 -->
-### Links
+### links
 [Portfolio](https://jaslavie.com)
 <br>
 [Linkedin](https://linkedin.com/in/jaslavie)
