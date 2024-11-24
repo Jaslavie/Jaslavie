@@ -2,14 +2,14 @@
 I'm a studying Computer Science and Neuroscience at UC Irvine - but I spend most of my time flying to hackathons and building ml projects at cafes.
 
 ### now 
-* incoming product designer @ Palantir, building [Gotham](https://www.palantir.com/platforms/gotham/), defense intelligence.
-* software engineer building AR inerfaces and mission control for spacesuits @ [NASA](https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/).
+* incoming product designer @ Palantir, building [Gotham](https://www.palantir.com/platforms/gotham/) defense intelligence.
+* software engineer building AR interfaces and mission control for spacesuits @ [NASA](https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/).
 * writing about defense tech @ [Contrary](https://www.contrary.com/).
 
 ### past life 
-* co-authored 244-page preliminary design review under NASA research program.
-* founder leading 0 to 1 product discovery and design at Berkeley Skydeck. govtech & emergency response.
-* 15x hackathon winner out of 17 attended, including grand prize at Yale and the Berkeley AI Hackathon.
+* co-authored a 244 research paper for a lunar terrain rover mission concept, under a NASA research program.
+* founded a 911 emergency response startup using ai agents to offload nonemergency calls, $1 million valuation.
+* attended and won 15 out of 17 hackathons, including grand prize at Berkeley AI (largest ai hackathon) and Yale Hacks.
 <!--
 ## Tech Stack: ##
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=FFF&style=for-the-badge)
@@ -35,11 +35,11 @@ I'm a studying Computer Science and Neuroscience at UC Irvine - but I spend most
 * Article: [Live vs Dead Players](https://samoburja.com/live-versus-dead-players/)
 -->
 ### links
-[Portfolio](https://jaslavie.com)
+[website](https://jaslavie.com)
 <br>
-[Linkedin](https://linkedin.com/in/jaslavie)
+[linkedin](https://linkedin.com/in/jaslavie)
 <br>
-[Devpost](https://devpost.com/jaslavie)
+[hackathons](https://devpost.com/jaslavie)
 <!--
 
 * Zothacks / UCI, Nov 23' (🥈 2nd Place)
