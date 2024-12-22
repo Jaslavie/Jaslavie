@@ -1,5 +1,5 @@
-## design engineer building beautiful and functional interfaces at scale.
-I study cs & neuroscience at uci - but I spend most of my time flying to hackathons and building ml projects at cafes.
+## design engineer deeply interested in solving hard problems
+I study cs & neuroscience at uci - but I spend most of my time flying to hackathons and building projects at cafes.
 
 ### now 
 * incoming product designer @ Palantir, building [Gotham](https://www.palantir.com/platforms/gotham/) defense intelligence.
