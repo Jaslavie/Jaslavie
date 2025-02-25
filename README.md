@@ -1,15 +1,14 @@
-## design engineer deeply interested in solving hard problems
-I study cs & neuroscience at uci - but I spend most of my time flying to hackathons and building projects at cafes.
+I study cs & neuroscience at uci - but I spend most of my time flying to hackathons and making things at cafes.
 
 ### now 
-* incoming product designer @ Palantir, building [Gotham](https://www.palantir.com/platforms/gotham/) defense intelligence.
-* software engineer building AR interfaces and mission control for spacesuits @ [NASA](https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/).
-* writing about defense tech @ [Contrary](https://www.contrary.com/).
+* designing product @ Palantir, building [Gotham](https://www.palantir.com/platforms/gotham/) C2 platform for defense.
+* designing adaptive control interfaces for spacesuits @ [NASA](https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/).
+* desiging C2 system for battlefield logistics @ [Gallatin](https://www.gallatin.ai/).
 
 ### past life 
+* awarded $68k to build an emergency response platform using ai agents to offload nonemergency calls.
 * co-authored a 244 research paper for a lunar terrain rover mission concept, under a NASA research program.
-* founded a 911 emergency response startup using ai agents to offload nonemergency calls, $1 million valuation.
-* attended and won 15 out of 17 hackathons, including grand prize at Berkeley AI (largest ai hackathon) and Yale Hacks.
+* won 15 out of 17 hackathons, including grand prize at the largest ai hackathon in the world.
 <!--
 ## Tech Stack: ##
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=FFF&style=for-the-badge)
