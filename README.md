@@ -1,7 +1,7 @@
 I study cs & neuroscience at uci - but I spend most of my time flying to hackathons and making things at cafes.
 
 ### now 
-* designing product @ Palantir, building [Gotham](https://www.palantir.com/platforms/gotham/) C2 platform for defense.
+* designing defense intelligence platform @ Palantir, building [Gotham](https://www.palantir.com/platforms/gotham/).
 * designing adaptive control interfaces for spacesuits @ [NASA](https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/).
 * desiging C2 system for battlefield logistics @ [Gallatin](https://www.gallatin.ai/).
 
@@ -9,6 +9,7 @@ I study cs & neuroscience at uci - but I spend most of my time flying to hackath
 * awarded $68k to build an emergency response platform using ai agents to offload nonemergency calls.
 * co-authored a 244 research paper for a lunar terrain rover mission concept, under a NASA research program.
 * won 15 out of 17 hackathons, including grand prize at the largest ai hackathon in the world.
+* organized the largest design hackathon in the U.S. two times.
 <!--
 ## Tech Stack: ##
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=FFF&style=for-the-badge)
