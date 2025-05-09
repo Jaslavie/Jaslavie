@@ -1,15 +1,4 @@
-I study cs & neuroscience at uci - but I spend most of my time flying to hackathons and making things at cafes.
-
-### now 
-* designing defense intelligence platform @ Palantir, building [Gotham](https://www.palantir.com/platforms/gotham/).
-* designing adaptive control interfaces for spacesuits @ [NASA](https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/).
-* desiging C2 system for battlefield logistics @ [Gallatin](https://www.gallatin.ai/).
-
-### past life 
-* awarded $68k to build an emergency response platform using ai agents to offload nonemergency calls.
-* co-authored a 244 research paper for a lunar terrain rover mission concept, under a NASA research program.
-* won 15 out of 17 hackathons, including grand prize at the largest ai hackathon in the world.
-* organized the largest design hackathon in the U.S. two times.
+### currently [@Palantir](https://www.palantir.com/platforms/gotham/), [@NASA JSC](https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/), [@Gallatin AI](https://www.gallatin.ai/). occasionally @UCI.
 <!--
 ## Tech Stack: ##
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=FFF&style=for-the-badge)
@@ -34,12 +23,6 @@ I study cs & neuroscience at uci - but I spend most of my time flying to hackath
 * Book: [Mastery](https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X) by Robert Greene
 * Article: [Live vs Dead Players](https://samoburja.com/live-versus-dead-players/)
 -->
-### links
-[website](https://jaslavie.com)
-<br>
-[linkedin](https://linkedin.com/in/jaslavie)
-<br>
-[hackathons](https://devpost.com/jaslavie)
 <!--
 
 * Zothacks / UCI, Nov 23' (🥈 2nd Place)
