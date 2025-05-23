@@ -1,4 +1,4 @@
-### currently [@Palantir](https://www.palantir.com/platforms/gotham/), [@NASA JSC](https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/), [@Gallatin AI](https://www.gallatin.ai/). occasionally @UCI.
+### experimenting with human interfaces & decision systems [@Palantir](https://www.palantir.com/platforms/gotham/), [@NASA JSC](https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/), [@Gallatin AI](https://www.gallatin.ai/). occasionally @UCI.
 <!--
 ## Tech Stack: ##
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=FFF&style=for-the-badge)
